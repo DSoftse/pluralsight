@@ -10,8 +10,8 @@
     },
     "deploymentType": {
       "type": "string",
-      "allowedValues": [ "deva", "prod" ],
-      "defaultValue": "deva",
+      "allowedValues": [ "devb", "prod" ],
+      "defaultValue": "devb",
       "metadata": {
         "description": "String to determine which network the VM is deployed to."
       }
